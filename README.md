@@ -9,9 +9,9 @@ Here are my notes on learning Bicep.
 ## Resources
 
 
-| Title       | Folder 
+| Resource       | Notes 
 | ----------- | ----------- 
-| [Fundamentals of Bicep](https://docs.microsoft.com/learn/paths/fundamentals-bicep/)      | [GPS notes on Fundamentals of Bicep]()       |
+| [Fundamentals of Bicep](https://docs.microsoft.com/learn/paths/fundamentals-bicep/)      | [GPS notes](fundamentals/README.md)       |
 | [Intermediate Bicep](https://docs.microsoft.com/learn/paths/intermediate-bicep/)   |         |
 | [Advanced Bicep](https://docs.microsoft.com/learn/paths/advanced-bicep/)   |         |
 [Deploy Azure resources by using Bicep and GitHub Actions](https://docs.microsoft.com/learn/paths/bicep-github-actions/) |
